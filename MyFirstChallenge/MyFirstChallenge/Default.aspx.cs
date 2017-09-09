@@ -18,7 +18,6 @@ namespace MyFirstChallenge
         {
             int age = int.Parse(ageTextBox.Text);
             double money = double.Parse(moneyTextBox.Text);
-
             string result = "At " + age + " years old, I would have expected you to have more than $" + money + " in your pocket.";
 
             resultLabel.Text = result;
