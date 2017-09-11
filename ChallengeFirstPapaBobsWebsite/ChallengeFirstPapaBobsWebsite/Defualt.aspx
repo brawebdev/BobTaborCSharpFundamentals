@@ -8,6 +8,13 @@
     <style type="text/css">
         .auto-style1 {
             font-size: x-large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .auto-style2 {
+            font-size: large;
+        }
+        .auto-style3 {
+            color: #FF3300;
         }
     </style>
 </head>
@@ -41,14 +48,14 @@
         <asp:CheckBox ID="anchoviesCheckBox" runat="server" Text="Anchovies (+$2)" />
         <br />
         <br />
-        Papa Bob&#39;s Special Deal<br />
+        <span class="auto-style2"><strong>Papa Bob&#39;s </strong><span class="auto-style3"><strong>Special Deal</strong></span></span><br />
         <br />
         Save $2.00 when you add Pepperoni, Green Peppers and Anchovies OR Pepperoni, Red Peppers and Onions to your pizza.<br />
         <br />
         <asp:Button ID="purchaseButton" runat="server" OnClick="purchaseButton_Click" Text="Purchase" />
         <br />
         <br />
-        Total: $<asp:Label ID="totalLabel" runat="server"></asp:Label>
+        Total: $<asp:Label ID="totalLabel" runat="server" Text="0.00"></asp:Label>
         <br />
         <br />
         Sorry, at this time you can only order one pizza online, and pick-up only... we need a better website!</form>
