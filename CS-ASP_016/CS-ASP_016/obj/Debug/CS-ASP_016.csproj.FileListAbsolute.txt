@@ -1,0 +1,6 @@
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\bin\CS-ASP_016.dll.config
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\bin\CS-ASP_016.dll
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\bin\CS-ASP_016.pdb
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\obj\Debug\CS-ASP_016.csprojResolveAssemblyReference.cache
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\obj\Debug\CS-ASP_016.dll
+C:\Users\bena\Desktop\BT_C#_Fundamentals\CS-ASP_016\CS-ASP_016\obj\Debug\CS-ASP_016.pdb

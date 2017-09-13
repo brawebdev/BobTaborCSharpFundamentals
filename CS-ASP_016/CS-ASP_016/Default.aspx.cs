@@ -13,5 +13,30 @@ namespace CS_ASP_016
         {
 
         }
+
+        protected void getDateButton_Click(object sender, EventArgs e)
+        {
+            resultLabel.Text = myCalendar.SelectedDate.ToString();
+        }
+
+        protected void setDateButton_Click(object sender, EventArgs e)
+        {
+            myCalendar.SelectedDate = DateTime.Parse("9/13/2017");
+        }
+
+        protected void showDateButton_Click(object sender, EventArgs e)
+        {
+            myCalendar.VisibleDate = DateTime.Parse("02/12/1990");
+        }
+
+        protected void selecedWeekButton_Click(object sender, EventArgs e)
+        {
+            resultLabel.Text = "Week of " + myCalendar.SelectedDate.ToShortDateString();
+        }
+
+        protected void myCalendar_SelectionChanged(object sender, EventArgs e)
+        {
+            resultLabel.Text = myCalendar.SelectedDate.ToShortDateString();
+        }
     }
 }
