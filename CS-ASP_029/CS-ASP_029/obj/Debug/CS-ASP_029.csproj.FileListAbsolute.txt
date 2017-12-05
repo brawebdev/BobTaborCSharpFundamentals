@@ -1,0 +1,6 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.pdb
